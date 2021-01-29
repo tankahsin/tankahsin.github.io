@@ -4,6 +4,6 @@ My Website
 <ul>
 </li>
 <li><a href="https://github.com/{{ site.tankahsin
-}}">GitHub</a></li>
+}}>GitHub</a></li>
 </ul>">GitHub</a></li>
 </ul>
