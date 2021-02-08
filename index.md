@@ -35,27 +35,27 @@ _This section accounts for my career in the oil and gas industry._
   - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
     - i am good
     - i am good
-  - **_Sales Manager:_** @ [Hilong Offshore Engineering](https://en.hilonggroup.com/)
+  - **_Sales Manager:_** @ [Hilong Offshore Engineering](http://en.hilonggroup.com/index.php/app/win/cn/product_hygc/57)
     - i am good
     - i am good
 
 **Bid Management Professional** _(Jan 2018 - Dec 2014)_
 - i am good
 - i am good
-  - **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipems.com/)
+  - **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipem.com/en)
     - i am good
     - i am good
-  - **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/)
+  - **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/en/index.html)
     - i am good
     - i am good
 
 **Field Engineering** _(1994 - 2017)_
 - i am good
 - i am good
-  - **Project Engineer:_** @ [Heerema Singapore](https://www.hmc-heerema.com/)
+  - **Project Engineer:_** @ [Heerema Singapore](https://hmc.heerema.com/)
     - i am good
     - i am good
-  - **Field Engineer:_** @ [HeereMac Singapore](https://www.hmc-heerema.com/)
+  - **Field Engineer:_** @ [HeereMac Singapore](https://hmc.heerema.com/)
     - i am good
     - i am good
 
