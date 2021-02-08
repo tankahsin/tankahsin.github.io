@@ -6,11 +6,14 @@ _IT Executive (mid-career Professional) based in Singapore_ <br>
 
 ## 👩🏼‍💻 Technical Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**IT Executive** @ [Nanjing Dadi Construction](https://www.nanjingdadi.com.sg/) _(Nov 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
- - Extending and maintaining a company-wide design system
- - Building a new frontend component library
- - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+ - Maintaining Company subscription with Singtel OneOffice - a cloud based Office suite powered by Google workspace.
+ - Build Company website using Google sites. Customised the google by setting up a CNAME in the DNS.
+ - Upgrade all exisitng PCs and Laptops from Win 7 to Win 10.
+ - Using a old PC, install Ubuntu server 20.04 and using Samba, setup a file server for intenal use only.
+ - **_Continuing education:_** Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
+- **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore..
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
