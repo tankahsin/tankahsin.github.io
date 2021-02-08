@@ -27,37 +27,37 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
 _This section accounts for my career in the oil and gas industry._
 
 **Sales and BD Professional** _(Jan 2015 - Apr 2020)_
- - i am good
- - i am good
-   - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
-     - i am good
-     - i am good
-   - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
-     - i am good
-     - i am good
-   - **_Sales Manager:_** @ [Hilong Offshore Engineering](https://en.hilonggroup.com/)
-     - i am good
-     - i am good
+- i am good
+- i am good
+  - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
+    - i am good
+    - i am good
+  - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
+    - i am good
+    - i am good
+  - **_Sales Manager:_** @ [Hilong Offshore Engineering](https://en.hilonggroup.com/)
+    - i am good
+    - i am good
 
 **Bid Management Professional** _(Jan 2018 - Dec 2014)_
-  - i am good
-  - i am good
-   - **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipems.com/)
-     - i am good
-     - i am good
-   - **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/)
-     - i am good
-     - i am good
+- i am good
+- i am good
+  - **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipems.com/)
+    - i am good
+    - i am good
+  - **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/)
+    - i am good
+    - i am good
 
 **Field Engineering** _(1994 - 2017)_
-  - i am good
-  - i am good
-    - **Project Engineer:_** @ [Heerema Singapore](https://www.hmc-heerema.com/)
-      - i am good
-      - i am good
-    - **Field Engineer:_** @ [HeereMac Singapore](https://www.hmc-heerema.com/)
-      - i am good
-      - i am good
+- i am good
+- i am good
+  - **Project Engineer:_** @ [Heerema Singapore](https://www.hmc-heerema.com/)
+    - i am good
+    - i am good
+  - **Field Engineer:_** @ [HeereMac Singapore](https://www.hmc-heerema.com/)
+    - i am good
+    - i am good
 
 ## 💬 Languages
 
