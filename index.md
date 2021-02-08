@@ -11,48 +11,18 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
  - Maintaining Company subscription with Singtel OneOffice - a cloud based Office suite powered by Google Workspace.
  - Build Company website using Google sites. Customised the site by setting up a CNAME in the DNS.
  - Upgrade all exisitng PCs and Laptops from Win 7 to Win 10.
- - Using a old PC, install Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
+ - Using an old PC, install Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
  - **_Continuing education:_** Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
  - **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
 <br><br>
 
-**Courses** _(May 2020 - Nov 2021)_ <br>
+**Courses** _(May 2020 - Nov 2020)_ <br>
 - **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
-- **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
+- **_Continuing education:_** The Complete Data Science & Machine Learning Bootcamp issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
+- **_Continuing education:_** TThe Complete Flutter Development Bootcamp Using Dart issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
+- **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration I issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
+- **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration II issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
- - Built the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
- - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
- - Ownership of Meeshkan's [documentation](https://meeshkan.com/docs/) and [technical blog](https://meeshkan.com/blog/)
- - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
- - **_Selected open-source work:_**
-   - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-   - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-   - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-   <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
- - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
- - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
- - Extended and maintained a company-wide design system
- - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
- <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
- - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
- - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
- - Assistance with information architecture and UX writing for the web app
- - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
- - **_Selected writing:_**
-   - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-   - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-   - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-   <br><br>
-
-## 🗞 Journalism Experience
 
 _This section only accounts for work done post-career change._
 <br><br>
