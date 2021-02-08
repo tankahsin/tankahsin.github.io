@@ -49,10 +49,7 @@ _This section accounts for my career in the oil and gas industry._
      - i am good
      - i am good
 
-_This section accounts for my early career as a Offshore Engineer._
-<br>
-
-**Field Engineering** _(1994 - 2017)_ <br>
+**Field Engineering** _(1994 - 2017)_
   - i am good
   - i am good
     - **Project Engineer:_** @ [Heerema Singapore](https://www.hmc-heerema.com/)
