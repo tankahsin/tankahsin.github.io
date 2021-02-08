@@ -7,22 +7,18 @@ _IT Executive (mid-career Professional) based in Singapore_ <br>
 ## 👩🏼‍💻 Technical Experience
 
 **IT Executive** @ [Nanjing Dadi Construction](https://www.nanjingdadi.com.sg/) _(Nov 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
- - Maintaining Company subscription with Singtel OneOffice - a cloud based Office suite powered by Google workspace.
- - Build Company website using Google sites. Customised the google by setting up a CNAME in the DNS.
+Recommended by SGTech job placement scheme, I am currently working as a IT Executive (sort of like an interneship)
+ - Maintaining Company subscription with Singtel OneOffice - a cloud based Office suite powered by Google Workspace.
+ - Build Company website using Google sites. Customised the site by setting up a CNAME in the DNS.
  - Upgrade all exisitng PCs and Laptops from Win 7 to Win 10.
- - Using a old PC, install Ubuntu server 20.04 and using Samba, setup a file server for intenal use only.
+ - Using a old PC, install Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
  - **_Continuing education:_** Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
-- **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore..
+ - **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
- - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
- - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
- - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
- - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
-<br><br>
+**Courses** _(May 2020 - Nov 2021)_ <br>
+- **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
+- **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup focused on automated API testing and NLP.
