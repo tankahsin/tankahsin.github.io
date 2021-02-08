@@ -68,4 +68,4 @@ _This section accounts for my career in the oil and gas industry._
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Engineering** in Mechanical Engineering<br>
-[National University of Singapore](https://www.nus.edu/) - Singapore _(1989 - 1993)_
+[National University of Singapore](https://nus.edu.sg/) - Singapore _(1989 - 1993)_
