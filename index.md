@@ -23,7 +23,6 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
 - **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration I issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
 - **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration II issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
 
-
 _This section accounts for my career in the oil and gas industry._
 
 **Sales and BD Professional** _(Jan 2015 - Apr 2020)_
@@ -61,7 +60,7 @@ _This section accounts for my career in the oil and gas industry._
 
 ## 💬 Languages
 
-**English**
+**English** <br>
 **Chinese**
 <br>
 
