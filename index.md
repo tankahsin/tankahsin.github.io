@@ -1,8 +1,8 @@
-# Carolyn Stransky
+# Tan Kah Sin
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_IT Executive (mid-career Professional) based in Singapore_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:kahsin@hotmail.com) / [Website](https://www.scratchypython.com/) / [LinkedIn](https://www.linkedin.com/in/kahsin-tan/) / [GitHub](https://github.com/tankahsin/)
 
 ## 👩🏼‍💻 Technical Experience
 
