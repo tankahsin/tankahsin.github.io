@@ -36,19 +36,19 @@ _This section accounts for my career in the oil and gas industry._
  - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
    -
    -
-- **_Sales Manager:_** @ [Hilong Offshore Engineering](https://en.hilonggroup.com/)
+ - **_Sales Manager:_** @ [Hilong Offshore Engineering](https://en.hilonggroup.com/)
    -
    -
 
 **Bid Management Professional** _(Jan 2018 - Dec2014)_ <br>
 -
 -
-- **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipems.com/)
-  -
-  -
-- **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/)
-  -
-  -
+ - **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipems.com/)
+   -
+   -
+ - **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/)
+   -
+   -
 
 _This section accounts for my early career as a Offshore Engineer._
 <br><br>
