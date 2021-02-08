@@ -28,41 +28,40 @@ _This section accounts for my career in the oil and gas industry._
 <br><br>
 
 **Sales and BD Professional** _(Jan 2015 - Apr 2020)_ <br>
- -
- -
- - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
-   -
-   -
- - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
-   -
-   -
- - **_Sales Manager:_** @ [Hilong Offshore Engineering](https://en.hilonggroup.com/)
-   -
-   -
+ - i am good
+ - i am good
+   - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
+     - i am good
+     - i am good
+   - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
+     - i am good
+     - i am good
+   - **_Sales Manager:_** @ [Hilong Offshore Engineering](https://en.hilonggroup.com/)
+     - i am good
+     - i am good
 
 **Bid Management Professional** _(Jan 2018 - Dec2014)_ <br>
--
--
- - **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipems.com/)
-   -
-   -
- - **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/)
-   -
-   -
+  - i am good
+  - i am good
+   - **_Proposal Manager:_** @ [Saipems Singapore](https://www.saipems.com/)
+     - i am good
+     - i am good
+   - **_Proposal Engineer:_** @ [Acergy Singapore](https://www.subsea7.com/)
+     - i am good
+     - i am good
 
 _This section accounts for my early career as a Offshore Engineer._
 <br><br>
 
 **Field Engineering ** _(1994 - 2017)_ <br>
--
--
-- **Project Engineer:_** @ [Heerema Singapore](https://www.hmc-heerema.com/)
-  -
-  -
-- **Field Engineer:_** @ [HeereMac Singapore](https://www.hmc-heerema.com/)
-  -
-  -
-
+  - i am good
+  - i am good
+    - **Project Engineer:_** @ [Heerema Singapore](https://www.hmc-heerema.com/)
+      - i am good
+      - i am good
+    - **Field Engineer:_** @ [HeereMac Singapore](https://www.hmc-heerema.com/)
+      - i am good
+      - i am good
 
 ## 💬 Languages
 
