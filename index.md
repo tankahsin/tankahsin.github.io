@@ -14,7 +14,7 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
  - Using an old PC, installed Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
  - Currently trying to setup a Cloud for the company using open source.
 
-**Courses** _(May 2020 - Nov 2020)_
+**IT Courses** _(May 2020 - Nov 2020)_
 - **_Continuing education:_** IT Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
 - **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
 - **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
@@ -26,8 +26,8 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
 _This section accounts for my career in the oil and gas industry._
 
 **Sales and BD Professional** _(Jan 2015 - Apr 2020)_
-- Since the oil price collapsed in 2014, I have found work in various companies all of which are related to Sales and Business Development due to my knowledge of the Offshore and Marine industry.
-- However, the situation of the Covid 19 and the delay in FID (Final Investment decision) means that projects are still very much on hold.
+- Since the oil price collapsed in 2014, I have found work in various companies which are related to Sales and Business Development due to my knowledge of the Offshore and Marine industry.
+- However, the situation of the Covid 19 and the delay in FID (Final Investment decision) means that major projects are still very much on hold.
   - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
     - From Jan 2018 to May 2020
     - ROS is a medium size fabricator located in Tuas. Their strength is modules fabrication for the FPSO industry.
