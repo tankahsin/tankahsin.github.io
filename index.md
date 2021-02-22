@@ -26,11 +26,13 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
 _This section accounts for my career in the oil and gas industry._
 
 **Sales and BD Professional** _(Jan 2015 - Apr 2020)_
-- Since the oil price collapsed in 2014, I have found work in various companies but are related to Sales and Business Development due to my knowledge of the offshore and marine industry.
-- However, the situation of the Covid 19 and the delay in FID (Final Investment decision) means that projects are still on hold.
+- Since the oil price collapsed in 2014, I have found work in various companies all of which are related to Sales and Business Development due to my knowledge of the Offshore and Marine industry.
+- However, the situation of the Covid 19 and the delay in FID (Final Investment decision) means that projects are still very much on hold.
   - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
-    - i am good
-    - i am good
+    - From Jan 2018 to May 2020
+    - ROS is a medium size fabricator located in Tuas. Their strength is modules fabrication for the FPSO industry.
+    - My main role is to bring in the already thin works for the company. At the same, I registered the Company in Gebiz to tender for government contracts
+    - I have successfully bided two jobs for the company, a US$1.5m electrical room module for Brunei LNG via Schneider Electric and from Keppel O&M, a S$8m contract for a Jackup rig modules fabrication.  
   - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
     - i am good
     - i am good
