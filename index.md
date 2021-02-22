@@ -2,7 +2,7 @@
 
 _IT Executive (mid-career Professional) based in Singapore_
 
-[Email](mailto:kahsin@hotmail.com) / [Website](https://www.scratchypython.sg/) / [LinkedIn](https://www.linkedin.com/in/kahsin-tan/) / [GitHub](https://github.com/tankahsin/)
+[Email](mailto:kahsin@hotmail.com) / [Website](http://scratchypython.sg/) / [LinkedIn](https://www.linkedin.com/in/kahsin-tan/) / [GitHub](https://github.com/tankahsin/)
 
 ## 👩🏼‍💻 Technical Experience
 
