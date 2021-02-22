@@ -6,18 +6,16 @@ _IT Executive (mid-career Professional) based in Singapore_ <br>
 
 ## 👩🏼‍💻 Technical Experience
 
-**IT Executive** @ [Nanjing Dadi Construction](https://www.nanjingdadi.com.sg/) _(Nov 2020 - Present)_ <br>
+**IT Executive** @ [Nanjing Dadi Construction](https://www.nanjingdadi.com.sg/) _(Nov 2020 - Present)_
 Recommended by SGTech job placement scheme, I am currently working as a IT Executive (sort of like an interneship)
  - Maintaining Company subscription with Singtel OneOffice - a cloud based Office suite powered by Google Workspace.
  - Build Company website using Google sites. Customised the site by setting up a CNAME in the DNS.
  - Upgrade all exisitng PCs and Laptops from Win 7 to Win 10.
  - Using an old PC, install Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
- - **_Continuing education:_** Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
- - **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
-<br><br>
 
-**Courses** _(May 2020 - Nov 2020)_ <br>
-- **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
+**Courses** _(May 2020 - Nov 2020)_ 
+- **_Continuing education:_** IT Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
+- **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.- **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
 - **_Continuing education:_** The Complete Data Science & Machine Learning Bootcamp issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
 - **_Continuing education:_** The Complete Flutter Development Bootcamp Using Dart issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
 - **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration I issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
@@ -34,8 +32,8 @@ _This section accounts for my career in the oil and gas industry._
     - My main role is to bring in the already thin works for the company. At the same, I registered the Company in Gebiz to tender for government contracts
     - I have successfully bided two jobs for the company, a US$1.5m electrical room module for Brunei LNG via Schneider Electric and from Keppel O&M, a S$8m contract for a Jackup rig modules fabrication.  
   - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
-    - i am good
-    - i am good
+    - From Sep 2017 to April 2018
+    - I was recruited to assist in tendering for a contract from my previous company Saipem.
   - **_Sales Manager:_** @ [Hilong Offshore Engineering](http://en.hilonggroup.com/index.php/app/win/cn/product_hygc/57)
     - i am good
     - i am good
