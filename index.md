@@ -13,9 +13,10 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
  - Upgrade all exisitng PCs and Laptops from Win 7 to Win 10.
  - Using an old PC, install Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
 
-**Courses** _(May 2020 - Nov 2020)_ 
+**Courses** _(May 2020 - Nov 2020)_
 - **_Continuing education:_** IT Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
-- **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.- **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
+- **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
+- **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
 - **_Continuing education:_** The Complete Data Science & Machine Learning Bootcamp issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
 - **_Continuing education:_** The Complete Flutter Development Bootcamp Using Dart issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
 - **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration I issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
@@ -34,9 +35,13 @@ _This section accounts for my career in the oil and gas industry._
   - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
     - From Sep 2017 to April 2018
     - I was recruited to assist in tendering for a contract from my previous company Saipem.
+    - The project called for a Cable Laying ship but Asean Cableship can only offer a cable laying barge. Therefore Saipem was unable to qualify the Company.
+    - As the tender was unsuccessful, I did not continue after my 6 months probation.
   - **_Sales Manager:_** @ [Hilong Offshore Engineering](http://en.hilonggroup.com/index.php/app/win/cn/product_hygc/57)
-    - i am good
-    - i am good
+    - From Jan 2015 to Feb 2016
+    - This role was based in Shanghai for a newly startup company intending to penetrate the offshore installation market using a archaic anchor laying flat bottom barge HL-106.
+    - My role was primarily technical transfer of my know-how to this company including bid and tendering procedure and strategy, presentation and clarifications meetings.
+    - I left after my one year contract as I was unable to withstand the cold season in China. 
 
 **Bid Management Professional** _(Jan 2018 - Dec 2014)_
 - i am good
