@@ -26,8 +26,8 @@ Recommended by SGTech job placement scheme, I am currently working as a IT Execu
 _This section accounts for my career in the oil and gas industry._
 
 **Sales and BD Professional** _(Jan 2015 - Apr 2020)_
-- i am good
-- i am good
+- Since the oil price collapsed in 2014, I have found work in various companies but are related to Sales and Business Development due to my knowledge of the offshore and marine industry.
+- However, the situation of the Covid 19 and the delay in FID (Final Investment decision) means that projects are still on hold.
   - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
     - i am good
     - i am good
