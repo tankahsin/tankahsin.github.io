@@ -1,6 +1,6 @@
 # Tan Kah Sin
 
-_IT Executive (mid-career Professional) based in Singapore_
+_IT Executive (mid-career change) based in Singapore_
 
 [Email](mailto:kahsin@hotmail.com) / [Website](https://tankahsin.github.io/) / [LinkedIn](https://www.linkedin.com/in/kahsin-tan/) / [GitHub](https://github.com/tankahsin/)
 
@@ -15,7 +15,7 @@ Under the mid-career job placement scheme, I am currently working as an IT Execu
  - Using an old PC, installed Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
  - Currently trying to setup a Cloud for the Company using open source.
 
-**IT Courses** _(May 2020 - presnt)_
+**IT Courses** _(May 2020 - present)_
 - **_Continuing education:_** IT Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
 - **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
 - **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
@@ -24,7 +24,7 @@ Under the mid-career job placement scheme, I am currently working as an IT Execu
 - **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration I issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
 - **_Continuing education:_** Certificate of Attendance for the RH134 Red Hat System Administration II issued by @ [Red Hat Global Learning System](https://www.redhat.com/en/services/training-and-certification/). Sponsored by Skills Future Singapore.
 
-_This section accounts for my career in the oil and gas industry._
+>_This section accounts for my career in the oil and gas industry._
 
 **Sales and BD Professional** _(Jan 2015 - May 2020)_
 - Since the oil price collapsed in 2014, I could still find work in various companies in Sales and Business Development due to my knowledge of the Offshore and Marine industry.
