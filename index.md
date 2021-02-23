@@ -2,14 +2,14 @@
 
 _IT Executive (mid-career Professional) based in Singapore_
 
-[Email](mailto:kahsin@hotmail.com) / [Website](http://scratchypython.sg/) / [LinkedIn](https://www.linkedin.com/in/kahsin-tan/) / [GitHub](https://github.com/tankahsin/)
+[Email](mailto:kahsin@hotmail.com) / [Website](https://tankahsin.github.io/) / [LinkedIn](https://www.linkedin.com/in/kahsin-tan/) / [GitHub](https://github.com/tankahsin/)
 
 ## 👩🏼‍💻 IT Experience
 
 **IT Executive** @ [Nanjing Dadi Construction](https://www.nanjingdadi.com.sg/) _(Nov 2020 - Present)_
-SGTech job placement scheme, I am currently working as a IT Executive (pseudo internship)
- - Administering Company subscription with Singtel OneOffice - a cloud based Office suite powered by Google Workspace.
- - Build Company website using Google sites. Setup Singtel DNS to point this site to the Company's existing domain.
+Under the mid-career job placement scheme, I am currently working as an IT Executive (internship)
+ - Administering Company subscription with [Singtel OneOffice](https://marketplace.singtel.com) - a cloud based Office suite powered by Google Workspace.
+ - Build Company website using Google site. Setup Singtel DNS to point site to the Company's existing domain.
  - Upgrading and maintaining HQ and site PCs and Laptops from Win 7 to Win 10.
  - Install and maintain office software.
  - Using an old PC, installed Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
@@ -26,9 +26,9 @@ SGTech job placement scheme, I am currently working as a IT Executive (pseudo in
 
 _This section accounts for my career in the oil and gas industry._
 
-**Sales and BD Professional** _(Jan 2015 - Apr 2020)_
-- Since the oil price collapsed in 2014, I could still find work in various companies which are related to Sales and Business Development due to my knowledge of the Offshore and Marine industry.
-- However, the situation with the Covid 19 further delay in FID (Final Investment Decision) which means that major O&G projects are still very much on hold.
+**Sales and BD Professional** _(Jan 2015 - May 2020)_
+- Since the oil price collapsed in 2014, I could still find work in various companies in Sales and Business Development due to my knowledge of the Offshore and Marine industry.
+- However, Covid 19 further delay the FID (Final Investment Decision) which means that major O&G projects are still very much on hold.
   - **_Sales Manager:_** @ [Rotating Offshore Solutions](https://ros.com.sg/)
     - From Jan 2018 to May 2020
     - ROS is a medium size fabricator located in Tuas. Their strength is modules fabrication for the FPSO industry.
@@ -37,15 +37,15 @@ _This section accounts for my career in the oil and gas industry._
   - **_Sales Manager:_** @ [Asean Cableship](https://www.aseancableship.com/)
     - From Sep 2017 to April 2018
     - I was recruited to assist in tendering for a offshre cable laying contract from my previous company Saipem, now re-locate to Jakarta.
-    - The project called for a Cable Laying Ship but Asean Cableship can only offer a cable laying barge. Therefore Saipem was unable to pre-qualify the Company for this project.
+    - The project called for a Cable Laying Ship but Asean Cableship can only offer a Cable Laying Barge. Therefore Saipem was unable to pre-qualify the Company for this project.
     - As the tender was unsuccessful, I did not continue after my 6 months probation.
   - **_Sales Manager:_** @ [Hilong Offshore Engineering](http://en.hilonggroup.com/index.php/app/win/cn/product_hygc/57)
     - From Jan 2015 to Feb 2016
-    - This role was based in Shanghai for a newly startup company intending to penetrate the offshore installation market using an anchors-laying flat bottom barge HL-106.
-    - My role was primarily technical transfer of my know-how to this company including bid and tendering procedure and strategy, presentation and taking part in clarifications meetings.
-    - I left after my one year contract as I was unable to withstand adapt to the living conditions in Shanghai.
+    - This role was based in Shanghai for a newly startup company intending to penetrate the offshore installation market using an anchor-laying flat bottom barge HL-106.
+    - My role was clearly technical transfer of my know-how to the company including bid and tendering procedure and strategy, presentation and clarifications responses.
+    - I left after my one year contract as I was unable to adapt to the living conditions in Shanghai.
 
-**Bid Management Professional** _(Jan 2018 - Dec 2014)_
+**Bid Management Professional** _(Jan 2008 - Sep 2014)_
 - Bid Management starts from understanding the project requirements and submitting to the Management for a Bid/No Bid Decision within a very short period of time (usually 3 days).
 - Thereafter, the proposal and costing will start and continue until submission.
 - Once submitted, clarifications and re-submission continue until the tender is awarded.
@@ -58,12 +58,12 @@ _This section accounts for my career in the oil and gas industry._
     - Proposal and Costing Engineer for a few EPCI projects ranging from dayrates to US$200m
 
 **Field Engineering** _(1994 - 2017)_
-- I started my career with Heerema directly after NUS; project management and engineering in the office and attending field works such as site fabrication, Factory Acceptance Test (FAT).
+- I started my career with Heerema directly after NUS; project management and engineering in the office and attending field works such as site fabrication and Factory Acceptance Test (FAT).
 - Highlight of each project is the opportunity to attend offshore installation and seeing the whole project coming together.
   - **Project Engineer:** @ [Heerema Singapore](https://hmc.heerema.com/)
     - I took part in many projects located in offshore Malaysia, Vietnam, Brunei and China.
     - From 1998 to 2001, I was re-located to Shanghai for a new built 520 foot barge that would transport a 12,000mT topside for the Shell Malampaya project. The topside was built by Sembawang in their Admiralty Yard.
-    - In Shanghai, I was the owner rep for the detailed design in Shanghai and thereafter as a site rep for the construction in Nangtong.
+    - In Shanghai, I was the owner rep for the detailed design in Shanghai and thereafter as a site rep for the construction in Nangtong, Jiangsu Province.
 
 ## 💬 Languages
 
