@@ -10,7 +10,7 @@ _IT Executive (mid-career change) based in Singapore_
 Under the mid-career job placement scheme, I am currently working as an IT Executive.
  - Administering Company subscription with [Singtel OneOffice](https://marketplace.singtel.com) - a cloud based Office suite powered by Google Workspace.
  - Build Company website using Google site. Setup Singtel DNS to point site to the Company's existing domain.
- - Upgrading and maintaining HQ and site PCs and Laptops from Win 7 to Win 10.
+ - Upgrading and maintaining HQ's and Worksite's PCs and Laptops from Win 7 to Win 10.
  - Install and maintain office software.
  - Using an old PC, installed Ubuntu server 20.04, setup email server using iRedMail and subsequently, host an on-premise cloud using Nextcloud.
  - Link OnlyOffice to Nextcloud and setup Mail Client to mail server.
