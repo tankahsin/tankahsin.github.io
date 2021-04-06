@@ -7,13 +7,14 @@ _IT Executive (mid-career change) based in Singapore_
 ## 👩🏼‍💻 IT Experience
 
 **IT Executive** @ [Nanjing Dadi Construction](https://www.nanjingdadi.com.sg/) _(Nov 2020 - Present)_
-Under the mid-career job placement scheme, I am currently working as an IT Executive (internship)
+Under the mid-career job placement scheme, I am currently working as an IT Executive.
  - Administering Company subscription with [Singtel OneOffice](https://marketplace.singtel.com) - a cloud based Office suite powered by Google Workspace.
  - Build Company website using Google site. Setup Singtel DNS to point site to the Company's existing domain.
  - Upgrading and maintaining HQ and site PCs and Laptops from Win 7 to Win 10.
  - Install and maintain office software.
- - Using an old PC, installed Ubuntu server 20.04 and using Samba, setup a file server for Office use only.
- - Currently trying to setup a Cloud for the Company using open source.
+ - Using an old PC, installed Ubuntu server 20.04, setup email server using iRedMail and subsequently, host an on-premise cloud using Nextcloud.
+ - Link OnlyOffice to Nextcloud and setup Mail Client to mail server.
+ - Currently, taking AWS course for AWS Cloud certification.
 
 **IT Courses** _(May 2020 - present)_
 - **_Continuing education:_** IT Technical Support Fundamentals Certificate issued by Google and Coursera. Sponsored by e2i Singapore.
