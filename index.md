@@ -17,6 +17,7 @@ Under the mid-career job placement scheme, I am currently working as an IT Execu
  - Currently, taking AWS course for AWS Cloud certification.
 
 **IT Courses** _(May 2020 - present)_
+- **_Continuing education:_** AWS Cloud Practitioner Essentials Certificate issued AWS @ [eLearning Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=60697). Free
 - **_Continuing education:_** IT Technical Support Fundamentals Certificate issued by Google and Coursera @ [Google IT Support Professional Certificate](https://www.coursera.org/learn/technical-support-fundamentals). Sponsored by e2i Singapore.
 - **_Continuing education:_** The Bits and Bytes of Computer Networking Certificate issued by Google and Coursera @ [Google IT Support Professional Certificate](https://www.coursera.org/learn/technical-support-fundamentals). Sponsored by e2i Singapore.
 - **_Continuing education:_** The Complete Web Development Course issued by @ [The App Brewery](https://www.appbrewery.co/). Self-Sponsored.
