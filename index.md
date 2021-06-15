@@ -14,7 +14,7 @@ Under the mid-career job placement scheme, I am currently working as an IT Execu
  - Install and maintain office software.
  - Using an old PC, installed Ubuntu server 20.04, setup email server using iRedMail and subsequently, host an on-premise cloud using Nextcloud.
  - Link OnlyOffice to Nextcloud and setup Mail Client to mail server.
- - Currently, taking AWS course for AWS Cloud certification.
+ - Currently, taking going through a Python Programming course.
 
 **IT Courses** _(May 2020 - present)_
 - **_Continuing education:_** AWS Cloud Practitioner Essentials Certificate issued AWS @ [eLearning Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=60697). Free
